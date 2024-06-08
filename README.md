@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pulkit-2github
-- 👀 I’m interested in : Data Analysis, Data Handling, Data Extraction
+- 👀 I’m interested in : Data Analysis, Data Cleaning, Data Handling, Data Extraction, Data Visualization, Data Manipulation & more..
 - 🌱 I’m currently learning : 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : www.linkedin.com/in/pulkit-mehrotra-0372a81b0
